@@ -25,11 +25,16 @@ console.log(20 + 5 + 111 + 30 + 44 + 10);
 
 console.log((4 + 6 + 9) / 77);
 
-let a = 10;
-console.log(a);
+let a = 13;
+console.log(a)
 
-let a = 25;
-console.log(a);
+let b = 7 * a
 
+console.log(b);
 
+////////////////////////////////////////
+const max = 57;
+const actual = max - 13;
+const percentage = actual / max;
+console.log(percentage);
 
